@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikoswahlberg
-- 👀 I’m interested in science and playing tennis
+- 👀 I’m interested in science and tennis
 - 🌱 I’m currently learning Python and C programming
-- 💞️ I’m looking to collaborate on everything related to career development in the Energy sector
+- 💞️ I’m looking to collaborate on everything related to career development in the Energy and Finance intersection
 - 📫 How to reach me: DM
 
 
