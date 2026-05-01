@@ -16,7 +16,7 @@ I am a Master's student at **Aalto University** focused on the intersection of *
 ### 📫 Connect with me
 *   📍 Based in **Helsinki, Finland**
 *   🔗 [LinkedIn](https://linkedin.com/in/nikos-wahlberg)
-*   🏃‍♂️ **Off-duty:** You can find me at the tennis court!
+*   🎾 **Off-duty:** You can find me at the tennis court!
 
 ---
 *"Goal-driven, detail-oriented, and bridging the gap between energy technology and finance."*
