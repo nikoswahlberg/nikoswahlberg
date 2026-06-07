@@ -1,6 +1,6 @@
 # Hi, I'm Nikos Wahlberg 👋
 
-I am a Master's student at **Aalto University** focused on the intersection of **Energy Markets and Computational Finance**. My background bridges the gap between technical power systems engineering and the algorithmic methods required for modern power trading.
+I am a Master's student at **Aalto University** focused on the intersection of **Energy Markets and Computational Finance**. My background bridges the gap between technical power systems engineering and the computational methods required for modern power trading and market analysis.
 
 ### 🚀 What I'm Doing
 *   🔭 **MSc in Advanced Energy Solutions** at Aalto University, majoring in Energy Systems and Markets with a minor in Computational Finance and Risk Management.
